@@ -3,7 +3,6 @@ import os, sys
 from logger import logger
 import pandas as pd
 from sklearn.model_selection import train_test_split
-
 from exception import CustomException
 
 @dataclass

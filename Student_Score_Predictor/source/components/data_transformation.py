@@ -8,8 +8,6 @@ from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from logger import logger
 from exception import CustomException
 import numpy as np
-
-from source.components.data_ingestion import DataIngestion
 from source.utils.common import save_object
 
 

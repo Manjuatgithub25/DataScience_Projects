@@ -1,4 +1,3 @@
-import sys
 import pandas as pd
 from exception import CustomException
 from source.utils.common import load_object
